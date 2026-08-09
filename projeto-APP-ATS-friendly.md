@@ -460,10 +460,19 @@ Priorize, nesta ordem:
 
 Este aplicativo é uma **plataforma de análise e otimização de currículos para sistemas ATS** que compara o currículo do usuário com descrições de vagas, identificando compatibilidade, keywords, gaps e oportunidades de melhoria.
 
+<img width="1203" height="820" alt="image" src="https://github.com/user-attachments/assets/bce2742d-6615-49e6-9a90-d22c0ccc4947" />
+
+
 Ele permite gerenciar um currículo mestre, calcular pontuações transparentes de **Match** e **ATS**, gerar sugestões de otimização e visualizar as alterações antes de finalizar o currículo.
+
+<img width="1186" height="817" alt="image-1" src="https://github.com/user-attachments/assets/26825649-8664-484a-8525-55b40ed7947f" />
+
 
 Desenvolvido como um MVP educacional, o projeto prioriza simplicidade, funcionalidade, responsividade e acessibilidade, mantendo como princípio fundamental a **não invenção de experiências, competências ou resultados**.
 
+<img width="1175" height="822" alt="image-2" src="https://github.com/user-attachments/assets/11c2b215-6a19-40d3-a271-73190f3593b3" />
+
+<img width="1179" height="825" alt="image-3" src="https://github.com/user-attachments/assets/f891d66f-e5a8-46e9-ae68-590f646e408b" />
 
 ## O que o APP faz?
 
